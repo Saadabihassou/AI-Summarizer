@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_summarizing_page_forms",
+  "info": {
+    "displayName": "form"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "placeholder": {
+      "type": "string"
+    },
+    "submitButtonText": {
+      "type": "string"
+    },
+    "maxChars": {
+      "type": "integer"
+    }
+  },
+  "config": {}
+}

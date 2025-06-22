@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "summary_cards",
+  "info": {
+    "singularName": "summary-card",
+    "pluralName": "summary-cards",
+    "displayName": "summaryCard"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "showInputText": {
+      "type": "boolean"
+    },
+    "copyButtonText": {
+      "type": "string"
+    }
+  }
+}

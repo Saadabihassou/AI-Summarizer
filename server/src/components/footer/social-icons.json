@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_footer_social_icons",
+  "info": {
+    "displayName": "socialIcons"
+  },
+  "options": {},
+  "attributes": {
+    "socialMediaName": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

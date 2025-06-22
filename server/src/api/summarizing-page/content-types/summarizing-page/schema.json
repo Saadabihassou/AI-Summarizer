@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "summarizing_pages",
+  "info": {
+    "singularName": "summarizing-page",
+    "pluralName": "summarizing-pages",
+    "displayName": "summarizingPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "form": {
+      "type": "component",
+      "component": "summarizing-page.form",
+      "repeatable": false
+    }
+  }
+}

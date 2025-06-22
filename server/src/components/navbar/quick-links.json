@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_navbar_quick_links",
+  "info": {
+    "displayName": "quickLinks"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
