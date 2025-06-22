@@ -16,5 +16,4 @@
     "jsx": "react-jsx"
   },
   "include": ["./client/src/**/*", "./"],
-  "exclude": ["node_modules/", "build/", "dist/", "**/*.test.ts"]
 }
