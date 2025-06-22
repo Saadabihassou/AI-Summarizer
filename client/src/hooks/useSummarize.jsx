@@ -20,7 +20,7 @@ export default function useSummarize({ text_to_summarize }) {
         { inputs: text_to_summarize },
         {
           headers: {
-            Authorization: `Bearer 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`,
+            Authorization: `Bearer ${import.meta.env.REACT_APP_HF_API_KEY}`,
             "Content-Type": "application/json",
           },
         }
